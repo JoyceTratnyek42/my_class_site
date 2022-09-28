@@ -1,0 +1,71 @@
+
+
+body {
+    background-color: black;
+    text-align: center
+         
+}
+
+
+h1 { 
+color: white;
+font-size: 40px;
+font-family: sans-serif;
+text-align: center
+    
+
+}
+
+
+ a:link {
+  color: red;
+  font-family: sans-serif;
+  text-align: center
+    
+}
+
+p { 
+color: white;
+font-size: 20px;
+font-family: sans-serif;
+text-align: center
+
+
+}
+
+/* visited link */
+a:visited {
+  color: red;
+  font-family: sans-serif;
+  text-align: center
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+  font-family: sans-serif;
+  text-align: center
+}
+
+/* selected link */
+a:active {
+  color: red;
+  font-family: sans-serif;
+  text-align: center
+}
+
+h1 { 
+color: white;
+font-size: 40px;
+font-family: sans-serif;
+text-align: center
+    
+
+}
+
+body {
+    background-image: linear-gradient(black,white);
+    background-attachment: fixed
+    
+    
+}
